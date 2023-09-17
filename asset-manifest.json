@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1354e71b.css",
-    "main.js": "/static/js/main.f7f0e729.js",
-    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.67c6d071.css",
+    "main.js": "/static/js/main.c54ca87d.js",
+    "static/media/camping.png": "/static/media/camping.a0fc8538f0e67d8e9ce3.png",
+    "static/media/무한상사.png": "/static/media/무한상사.e5a64e1a4c839d56850a.png",
     "index.html": "/index.html",
-    "main.1354e71b.css.map": "/static/css/main.1354e71b.css.map",
-    "main.f7f0e729.js.map": "/static/js/main.f7f0e729.js.map",
-    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
+    "main.67c6d071.css.map": "/static/css/main.67c6d071.css.map",
+    "main.c54ca87d.js.map": "/static/js/main.c54ca87d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1354e71b.css",
-    "static/js/main.f7f0e729.js"
+    "static/css/main.67c6d071.css",
+    "static/js/main.c54ca87d.js"
   ]
 }
