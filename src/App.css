@@ -1,0 +1,53 @@
+.main-bg{
+  background-image: url('./camping.png');
+  width: 800px;
+  height: 400px;
+  background-size: cover; 
+  background-position: center;  /*배경사진의 위치를 가운데로 조정하는 스타일*/
+  margin: auto;
+  margin-top: 50px;
+ 
+
+}
+
+
+.main{
+  background-color: #f7f7f7;
+}
+
+.introTable>thead th{
+  width: 800px;
+  height: 100px;
+
+
+}
+
+.introTable>tbody th{
+  width: 150px;
+  height: 70px;
+ text-align: center;
+ background-color: #f7f7f7;
+
+
+}
+
+.introTable>tbody td{
+
+  height: 70px;
+  padding-left: 10px;
+
+
+}
+
+
+
+.tableImg{
+  background-image: url(./무한상사.png);
+  width: 30px;
+  height: 200px;
+  background-size: cover; 
+  background-position: center;
+  width: auto;
+}
+
+
